@@ -33,7 +33,7 @@ const c_text = document.getElementById('c_text');
 const d_text = document.getElementById('d_text');
 ```
 
-Create the load quiz function.
+Create the loadQuiz function.
 ```JavaScript
 let currentQuiz = 0;
 loadQuiz();
@@ -73,7 +73,7 @@ function getSelected(){
 };
 ```
 
-Creat the deselectAnswers function.
+Create the deselectAnswers function.
 ```JavaScript
 function deselectAnswers(){
     answerEls.forEach((answerEl) => {
