@@ -98,4 +98,4 @@ Add in additional parameters and functionality, including a reload button.
         }
 ```
 
-***End walkthrough
+***End walkthrough.
